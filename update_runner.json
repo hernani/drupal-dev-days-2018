@@ -1,1 +1,1 @@
-"a:1:{s:6:\"drupal\";a:4:{s:4:\"name\";s:6:\"drupal\";s:4:\"info\";a:6:{s:4:\"name\";s:14:\"Automated Cron\";s:7:\"package\";s:4:\"Core\";s:7:\"version\";s:5:\"8.5.3\";s:7:\"project\";s:6:\"drupal\";s:16:\"_info_file_ctime\";i:1534197433;s:9:\"datestamp\";i:0;}s:16:\"existing_version\";s:5:\"8.5.3\";s:11:\"recommended\";s:5:\"8.6.1\";}}"
+{"drupal":{"name":"drupal","info":{"name":"Automated Cron","package":"Core","version":"8.5.3","project":"drupal","_info_file_ctime":1534197433,"datestamp":0},"existing_version":"8.5.3","recommended":"8.6.1"}}
